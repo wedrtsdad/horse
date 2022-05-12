@@ -1,0 +1,33 @@
+body{
+    font-family: 'Indie Flower', cursive;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#d1{
+    background-color: rgba(0, 0, 0, 0.493);
+    text-align: center;
+    height: 50px;
+}
+
+.btn{
+    background-color: rgba(0, 0, 0, 0.493);
+    border-color: rgba(255, 255, 255, 0);
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+
+canvas{
+    background-color: rgb(0, 0, 0);
+}
+
+#b1{
+    margin-right: 300px;
+    font-size: 40px;
+}
+
+#b2{
+    font-size: 40px;
+}
